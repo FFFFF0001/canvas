@@ -2,7 +2,7 @@
 write on canvas
 
 - [demo](https://zc95.github.io/demo/canvas.html)
-- [github](https://zc95.github.io/demo/canvas.html)
+- [github](https://github.com/zc95/canvas)
 ---------
 
 
