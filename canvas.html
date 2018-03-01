@@ -246,6 +246,11 @@
 
         //清空历史记录
         function beforeListClear(){
+            if (navigator.vibrate) {
+    navigator.vibrate(2000);
+} else if (navigator.webkitVibrate) {
+    navigator.webkitVibrate(2000);
+}
             $("#beforeList").empty();
         }
 
