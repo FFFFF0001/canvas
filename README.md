@@ -1,5 +1,5 @@
 # canvas
-write on canvas
+用canvas写一个画板（手写板）
 
 - [demo](https://zc95.github.io/demo/canvas.html)
 - [github](https://github.com/zc95/canvas)
